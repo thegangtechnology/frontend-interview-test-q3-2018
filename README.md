@@ -6,7 +6,7 @@
 
 ให้คุณทำการ Clone หรือ Fork Repository นี้ไปเป็น Skeleton แล้วให้ทำการเขียน Code เพิ่มเติมขึ้นมา ให้หน้าตาออกมาคล้ายในลิงค์ข้างล่างนี้มากที่สุดเท่าที่คุณทำได้
 
-[https://thegang.tech/interview/frontend-developer](thegang.tech/interview/frontend-developer)
+[https://thegang.tech/interview/frontend-developer](https://thegang.tech/interview/frontend-developer)
 
 โดยเขียนวิธีไหนก็ได้ที่คุณถนัด เสร็จแล้วอัพโหลด Source Code ผ่าน Git ขึ้นที่ไหนก็ได้ที่เราสามารถเข้าไปดูได้ เสร็จแล้วทำการกรอกใบสมัครงานด้านล่างนี้
 
